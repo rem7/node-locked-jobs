@@ -1,0 +1,28 @@
+{
+  "name": "node-locked-jobs",
+  "version": "0.0.1",
+  "description": "NodeJS job queue with scheduling and locking ",
+  "main": "locked-jobs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jim-lake/node-locked-jobs.git"
+  },
+  "keywords": [
+    "job",
+    "lock",
+    "schedule"
+  ],
+  "author": "Jim Lake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jim-lake/node-locked-jobs/issues"
+  },
+  "homepage": "https://github.com/jim-lake/node-locked-jobs",
+  "dependencies": {
+    "lodash": "*",
+    "moment-timezone": "*"
+  }
+}
