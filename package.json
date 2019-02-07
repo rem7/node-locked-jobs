@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/jim-lake/node-locked-jobs",
   "dependencies": {
-    "lodash": "*",
+    "lodash": "3.10.1",
     "moment-timezone": "*"
   }
 }
